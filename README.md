@@ -1,4 +1,4 @@
-# Level Up Tutorials JavaScript Testing 101
+# JavaScript Testing 101
 
 ## Help Support
 
