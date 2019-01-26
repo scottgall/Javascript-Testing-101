@@ -1,8 +1,6 @@
 # JavaScript Testing 101
 
-## Help Support
-
-https://www.leveluptutorials.com/store
+From [LevelUpTuts](https://www.youtube.com/watch?v=4kNfeI37xu4)
 
 ## How To Use
 
@@ -12,5 +10,3 @@ cd Level-Up-JavaScript-Testing-101
 npm install
 npm test
 ```
-
-Then follow along on Youtube
